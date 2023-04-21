@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="languageSelected">The idiom select is English</string>
+    <string name="text_close_session">Close Session</string>
+    <string name="text_shopping_cart">Shopping cart</string>
+    <string name="text_view_profile">View profile</string>
+    <string name="text_language_en">English</string>
+    <string name="text_language_es">Spanish</string>
+</resources>

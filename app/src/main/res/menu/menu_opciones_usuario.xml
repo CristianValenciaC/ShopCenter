@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/language_icon"
+        android:title="@string/text_shopping_cart"
+        android:icon="@drawable/language_fill1_wght400_grad0_opsz48"
+        app:showAsAction="ifRoom">
+        <menu>
+            <item
+                android:id="@+id/language_en"
+                android:title="@string/text_language_en"/>
+            <item
+                android:id="@+id/language_es"
+                android:title="@string/text_language_es"/>
+        </menu>
+    </item>
+    <item
+        android:id="@+id/user_login"
+        android:title="@string/text_close_session"
+        android:icon="@drawable/account_circle_fill0_wght400_grad0_opsz48"
+        app:showAsAction="ifRoom">
+        <menu>
+            <item
+                android:id="@+id/close_session"
+                android:title="@string/text_close_session"/>
+        </menu>
+    </item>
+</menu>

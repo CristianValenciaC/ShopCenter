@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">ShopCenter</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="text_login">Login</string>
+    <string name="button_login">LOGIN</string>
+    <string name="button_create_account">SIGN UP</string>
+    <string name="button_exitApp">EXIT THE APP</string>
+    <string name="text_photo" translatable="false">Avatar</string>
+    <string-array name="language">
+        <item>LANGUAGE</item>
+        <item>EN</item>
+        <item>ES</item>
+    </string-array>
+    <string name="text_description_photo">Photo</string>
+    <string name="text_example">This is a example content text</string>
+    <string name="button_product">Add product</string>
+    <string name="end_product">Out of stock</string>
+    <string name="units">units</string>
+    <string name="unit">unit</string>
+    <string name="remaining">remaining</string>
+    <string name="price_total">Price total</string>
+    <string name="sign_up">Sign up</string>
+    <string name="button_sign_up">SIGN UP</string>
+    <string name="text_name">Name</string>
+</resources>

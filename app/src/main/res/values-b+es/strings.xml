@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ShopCenter</string>
+    <string name="username">Nombre de usuario</string>
+    <string name="password">Contraseña</string>
+    <string name="text_login">Iniciar sesión</string>
+    <string name="button_login">INICIAR SESIÓN</string>
+    <string name="button_create_account">REGISTRARSE</string>
+    <string name="button_exitApp">SALIR DE LA APLICACIÓN</string>
+    <string-array name="language">
+        <item>IDIOMA</item>
+        <item>EN</item>
+        <item>ES</item>
+    </string-array>
+    <string name="text_description_photo">Foto</string>
+    <string name="text_example">Este es un ejemplo de contenido de texto</string>
+    <string name="button_product">Añadir producto</string>
+    <string name="end_product">Sin existencias</string>
+    <string name="units">unidades</string>
+    <string name="unit">unidad</string>
+    <string name="remaining">restante</string>
+    <string name="price_total">Precio Total</string>
+    <string name="sign_up">Registrarse</string>
+    <string name="button_sign_up">REGISTRARSE</string>
+    <string name="text_name">Nombre</string>
+</resources>

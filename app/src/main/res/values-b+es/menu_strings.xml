@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="languageSelected">El idioma seleccionado es Español</string>
+    <string name="text_close_session">Cerrar Sesión</string>
+    <string name="text_shopping_cart">carrito de compra</string>
+    <string name="text_view_profile">Ver perfil</string>
+    <string name="text_language_en">Inglés</string>
+    <string name="text_language_es">Español</string>
+</resources>
